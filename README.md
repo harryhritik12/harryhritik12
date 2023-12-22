@@ -25,5 +25,4 @@ Exciting projects that involve innovative technology stacks, pushing the boundar
 - Twitter: [https://twitter.com/home]
 
 
-## 🌟 Check out my pinned repositories below!
-Explore some of my highlighted projects to see what I've been working on lately.
+

@@ -21,8 +21,8 @@ Passionate about technology and eager to learn and grow. I'm interested in a wid
 Exciting projects that involve innovative technology stacks, pushing the boundaries of what's possible in web, mobile, or cloud solutions. Open to collaboration in creating impactful and scalable applications.
 
 ## 📫 Connect with Me
-- LinkedIn: [https://www.linkedin.com/in/hritik-pankaj-27223822a/](Your LinkedIn Profile URL)
-- Twitter: [https://twitter.com/home](Your Twitter Profile URL)
+- LinkedIn: [https://www.linkedin.com/in/hritik-pankaj-27223822a/]
+- Twitter: [https://twitter.com/home]
 
 
 ## 🌟 Check out my pinned repositories below!

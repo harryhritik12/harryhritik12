@@ -12,7 +12,7 @@ Passionate about technology and eager to learn and grow. I'm interested in a wid
 - Mastering Flutter for cross-platform mobile app development.
 
 ## 💼 Skills and Technologies
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Express.js.
+- **Web Development:** HTML, CSS, JavaScript, Node.js, .
 - **Machine Learning:** Python, TensorFlow, Scikit-learn, Keras, Pandas, NLP, Computer Vision.
 - **Cloud Computing:** AWS (EC2, S3, Lambda, IAM, etc.), Azure, Google Cloud Platform.
 - **Mobile App Development:** Flutter, Dart, Firebase.

@@ -22,7 +22,7 @@ Exciting projects that involve innovative technology stacks, pushing the boundar
 
 ## 📫 Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/hritik-pankaj-27223822a/]
-- Twitter: [https://twitter.com/home]
+- Twitter: [https://twitter.com/hritik_pankaj]
 
 
 
